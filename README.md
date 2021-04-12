@@ -6,6 +6,4 @@ Clique no arquivo <a href="https://github.com/paulokuriki/feres_python_2021/blob
 
 Bons estudos
 
-Paulo Kuriki
-
-<a href="https://www.linkedin.com/in/paulokuriki/">Linkedin</a>
+Paulo Kuriki - <a href="https://www.linkedin.com/in/paulokuriki/">Linkedin</a>
